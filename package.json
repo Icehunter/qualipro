@@ -1,6 +1,6 @@
 {
   "name": "@icehunter/qualipro",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "code consistency tooling generator",
   "homepage": "https://github.com/Icehunter/qualipro#readme",
   "main": "index.js",
